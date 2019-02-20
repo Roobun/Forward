@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Forward.cpp
+  GetInputFromConfigFile.cpp
+c:\users\harry\source\repos\forward\forward\getinputfromconfigfile.cpp(59): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MainLogic.cpp
+c:\users\harry\source\repos\forward\forward\mainlogic.cpp(46): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Forward.vcxproj -> C:\Users\Harry\source\repos\Forward\Debug\Forward.exe
